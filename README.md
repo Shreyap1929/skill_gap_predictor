@@ -31,7 +31,7 @@ See missing skills and get learning recommendations
 
 git clone https://github.com/Shreyap1929/skill_gap_predictor.git
 
-cd skill_gap_predictor_new
+cd skill_gap_predictor
 
 
 # Backend setup
