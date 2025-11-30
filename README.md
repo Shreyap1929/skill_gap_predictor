@@ -19,6 +19,8 @@ Compare with industry standards
 
 See missing skills and get learning recommendations
 
+![WhatsApp Image 2025-11-30 at 5 40 11 PM](https://github.com/user-attachments/assets/0bb7ffbe-c294-4a38-818c-0d61b22a714c)
+
 
 # Setup Steps
 
