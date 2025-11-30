@@ -20,7 +20,10 @@ Compare with industry standards
 See missing skills and get learning recommendations
 
 ![WhatsApp Image 2025-11-30 at 5 40 11 PM](https://github.com/user-attachments/assets/0bb7ffbe-c294-4a38-818c-0d61b22a714c)
-
+![WhatsApp Image 2025-11-30 at 5 40 12 PM](https://github.com/user-attachments/assets/376b5a2f-4ca2-4fb9-bc0f-ebc0c5716262)
+![WhatsApp Image 2025-11-30 at 5 40 12 PM (2)](https://github.com/user-attachments/assets/26ab91aa-07d6-4f81-85ad-13ff79169b06)
+![WhatsApp Image 2025-11-30 at 5 40 12 PM (1)](https://github.com/user-attachments/assets/54f29334-574d-4c4b-a877-5e206d546328)
+![WhatsApp Image 2025-11-30 at 5 40 13 PM](https://github.com/user-attachments/assets/b774a68f-c797-4f93-9b21-ddc120a8a1d4)
 
 # Setup Steps
 
