@@ -30,24 +30,32 @@ See missing skills and get learning recommendations
 # Clone repository
 
 git clone https://github.com/Shreyap1929/skill_gap_predictor.git
+
 cd skill_gap_predictor_new
 
 
 # Backend setup
 
 cd backend
+
 python -m venv venv
+
 Activate venv
+
 Windows: venv\Scripts\activate
+
 Linux/Mac: source venv/bin/activate
 
 pip install -r requirements.txt
+
 python setup_nlp.py
 
 # Initialize database
 
 cd ../database
+
 python populate_skills.py
+
 cd ../backend
 
 # Start backend server
@@ -57,8 +65,11 @@ python -m uvicorn main:app --reload
 # Frontend setup (new terminal)
 
 cd frontend
+
 npm install
+
 echo "REACT_APP_API_URL=http://localhost:8000" > .env.local
+
 npm start
 
 Access the app at http://localhost:3000
